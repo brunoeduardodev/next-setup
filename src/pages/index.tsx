@@ -1,7 +1,9 @@
-import React from 'react'
 import Head from 'next/head'
 import Link from 'next/link'
+import React from 'react'
+
 import { Container } from '@styles/Home'
+
 import RocketseatLogo from '../assets/rocketseat.svg'
 
 const Home: React.FC = () => {

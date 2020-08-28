@@ -25,10 +25,8 @@
       "@services/*": ["./src/services/*"],
 //     "@assets/*": ["./src/assets/*"],
 //     apparently inline-react-svg is not compatible with absolute imports, so i'm disabling this.
-      "@routes/*": ["./src/routes/*"],
       "@contexts/*": ["./src/contexts/*"],
       "@hooks/*": ["./src/hooks /*"],
-      "@stylesConfig/*": ["./src/styles/*"],
       "@styles/*": ["./src/styles/pages/*"]
     },
   },
