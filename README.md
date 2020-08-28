@@ -1,4 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Template para projetos com Next
+
+Esse template foi feito tendo como base o [template de next da rocketseat](https://github.com/rocketseat-content/react-nextjs-typescript-structure)
+
+Além da base do template, foi adicionado configurações de minha preferência no eslint e typescript.
+
+Template:
+![Template Print](https://user-images.githubusercontent.com/50559336/91580367-5ce72200-e923-11ea-9d05-fc2f677e4db1.png)
 
 ## Getting Started
 

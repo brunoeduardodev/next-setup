@@ -13,7 +13,10 @@ const Home: React.FC = () => {
 
       <RocketseatLogo />
       <h1>ReactJS Structure</h1>
-      <p>A ReactJS + Next.js structure made by Rocketseat.</p>
+      <p>
+        A ReactJS + Next.js structure made by Rocketseat, (and improved by
+        brunoeduardodev).
+      </p>
       <Link href="/about">Go to about page</Link>
     </Container>
   )
