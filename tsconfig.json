@@ -23,11 +23,10 @@
       "@pages/*": ["./src/pages/*"],
       "@utils/*": ["./src/utils/*"],
       "@services/*": ["./src/services/*"],
-//     "@assets/*": ["./src/assets/*"],
-//     apparently inline-react-svg is not compatible with absolute imports, so i'm disabling this.
+      "@assets/*": ["./src/assets/*"],
       "@contexts/*": ["./src/contexts/*"],
       "@hooks/*": ["./src/hooks /*"],
-      "@styles/*": ["./src/styles/pages/*"]
+      "@styles/*": ["./src/styles/*"]
     },
   },
 
